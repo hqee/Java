@@ -1,14 +1,9 @@
 package Semester_2.Pemrograman_2.Week_11;
 
 /*
- * Nama : Haqi Dhiya Firmana
- * NIM  : 23051130016
+ * Nama     : Haqi Dhiya Firmana
+ * NIM      : 23051130016
  * Kelas    : J2
- * 
- * Output :
-    Are the stacks equal? true
-    Are the stacks equal? false
- 
  */
 
 import java.util.Stack;
@@ -44,3 +39,8 @@ public class equalsTest {
         System.out.println("Are the stacks equal? " + result2);
     }
 }
+/*
+ * Output :
+ * Are the stacks equal? true
+ * Are the stacks equal? false
+ */
