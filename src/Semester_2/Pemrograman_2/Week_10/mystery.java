@@ -1,4 +1,4 @@
-package Semester_2.Pemrograman_2.Week_9;
+package Semester_2.Pemrograman_2.Week_10;
 
 /*  
  * Nama : Haqi Dhiya Firmana
