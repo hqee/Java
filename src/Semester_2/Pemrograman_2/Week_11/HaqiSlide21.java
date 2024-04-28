@@ -49,6 +49,11 @@ public class HaqiSlide21 {
 
     public static void main(String[] args) {
         String expression = "5 2 4 * + 7 -";
-        System.out.println("The result of the expression is: " + evaluateExpression(expression));
+        System.out.println("Hasilnya adalah : " + evaluateExpression(expression));
     }
 }
+
+/*
+ * Output
+ * Hasilnya adalah : 6
+ */
