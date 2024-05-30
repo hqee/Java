@@ -22,6 +22,6 @@ public class ex5 {
 }
 
 /*
- * Output
+ * Output :
  * true
  */

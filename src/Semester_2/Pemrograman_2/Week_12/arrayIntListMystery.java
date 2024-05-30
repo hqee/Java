@@ -13,6 +13,7 @@ public class arrayIntListMystery {
         list.add(3);
         list.add(6);
         list.add(2);
+
         list.mystery();
         System.out.println("list = " + list);
         System.out.println("size = " + list.size());

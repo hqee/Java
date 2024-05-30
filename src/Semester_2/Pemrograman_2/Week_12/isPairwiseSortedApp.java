@@ -22,6 +22,7 @@ public class isPairwiseSortedApp {
         list.add(8);
         list.add(205);
         list.add(42);
+
         System.out.println(list.isPairwiseSorted());
     }
 }

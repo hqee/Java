@@ -17,6 +17,7 @@ public class removeFrontApp {
         list.add(3);
         list.add(8);
         list.removeFront(4);
+
         System.out.println(list);
     }
 }
